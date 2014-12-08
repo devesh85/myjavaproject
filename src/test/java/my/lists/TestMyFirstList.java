@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * Created by devesh on 12/7/14.
  */
-public class TestMyArrayList {
+public class TestMyFirstList {
     public MyCollection<String> myCollection;
 
     @Before
