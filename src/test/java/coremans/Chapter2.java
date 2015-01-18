@@ -27,4 +27,12 @@ public class Chapter2 {
         }
 
     }
+
+
+    @Test
+    public void testAbs() throws Exception{
+        int x = -13;
+        int y = x<0?~(x-1):x;
+        System.out.println(y);
+    }
 }
